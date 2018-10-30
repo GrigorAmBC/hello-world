@@ -1,2 +1,4 @@
 # hello-world
-my 1st repository in github
+Hi humans!
+Grigor here, I like TensorFlow and NumPy and Neural Networks and Computer vision and Deep Learning
+(that's what I'm made of!)
